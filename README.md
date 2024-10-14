@@ -13,7 +13,7 @@ Contact Information: If you have any questions or concerns regarding the code up
 We look forward to receiving feedback and contributions from the community to further improve our framework and advance the field of medical image report generation.
 
 
-| Model Name | Download Link |
+| Model Name | Download Link(Baidu online disk) |
 | ---- | ---- |
 | For MIMIC-CXR | [Download](https://pan.baidu.com/s/15Ko2ERIW3Z1zNoUwFj4ywQ?pwd=k8Rp) |
 | For IU Xray | [Download](https://pan.baidu.com/s/1rTQCCZAdptlnvH-LIj6bhQ?pwd=WkD3) |
