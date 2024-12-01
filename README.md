@@ -13,9 +13,13 @@ For MIMIC-CXR, you can download the dataset from [here](https://physionet.org/co
 **Requirements**
 
 System: Ubuntu 18.04
+
 GPU: RTX 2080 TI (11G)
+
 PyTorch==1.7.1, Python3.8
+
 [Spacy](https://spacy.io/)
+
 [nlg-eval](https://github.com/Maluuba/nlg-eval)
 
 **Usage**
