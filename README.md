@@ -32,3 +32,7 @@ python train.py
 **Test**
 
 Pleause use the [nlg-eval](https://github.com/Maluuba/nlg-eval) and the [chexpert](https://github.com/MIT-LCP/mimic-cxr/tree/master/txt/chexpert).
+
+
+**Contact**
+If you have any questions, please send an email to lihongzhao@gs.zzu.edu.cn or 634110890@qq.com
