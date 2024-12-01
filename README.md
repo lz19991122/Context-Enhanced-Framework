@@ -18,7 +18,9 @@ System: Ubuntu 18.04
 
 GPU: RTX 2080 TI (11G)
 
-PyTorch==1.7.1, Python3.8
+PyTorch==1.7.1
+
+Python3.8
 
 [Spacy](https://spacy.io/)
 
