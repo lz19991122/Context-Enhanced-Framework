@@ -52,7 +52,7 @@ torch.set_num_threads(1)
 torch.manual_seed(seed=123)
 
 RELOAD = False
-PHASE = 'TRAIN'
+PHASE = 'TRAIN'  # TRAIN or INFER
 DATASET_NAME = 'IUXRAY'
 BACKBONE_NAME = 'DenseNet121'
 MODEL_NAME = 'Context'
@@ -178,7 +178,7 @@ if __name__ == "__main__":
                 print('Saved To:', checkpoint_path_to)
 
     elif PHASE == 'INFER':
-        txt_test_outputs, txt_test_targets = infer(test_loader, model, device='cuda', threshold=0.20)
+        txt_test_outputs, txt_test_targets = infer(test_loader, model, device='cuda', threshold=0.15)
         gen_outputs = txt_test_outputs[0]
         gen_targets = txt_test_targets[0]
 
