@@ -1,6 +1,8 @@
 # Context-Enhanced-Framework-for-Medical-Image-Report-Generation-Using-Multimodal-Contexts
 
 
+**This is the implementation of Context-Enhanced-Framework-for-Medical-Image-Report-Generation-Using-Multimodal-Contexts.**
+
 **Datasets**
 
 We use two datasets (IU X-Ray and MIMIC-CXR) in our paper.
