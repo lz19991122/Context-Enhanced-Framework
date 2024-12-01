@@ -33,6 +33,10 @@ python train.py
 
 Pleause use the [nlg-eval](https://github.com/Maluuba/nlg-eval) and the [chexpert](https://github.com/MIT-LCP/mimic-cxr/tree/master/txt/chexpert).
 
+**Annotation**
+
+Any questions about our work can be asked in issues.
+
 
 **Contact**
 
