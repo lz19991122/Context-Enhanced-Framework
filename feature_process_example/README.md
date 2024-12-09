@@ -16,7 +16,7 @@ Input: Image features of shape (16, 1024)
 
 ↓ Linear Transformation
 
-Intermediate: Features of shape (16, 29,184) [114 * 256 = 29,184]
+Intermediate: Features of shape (16, 29184) [114 * 256 = 29,184]
 
 ↓ Reshape Operation
 
