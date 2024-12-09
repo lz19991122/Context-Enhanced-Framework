@@ -22,16 +22,6 @@ Intermediate: Features of shape (16, 29,184) [114 * 256 = 29,184]
 
 Output: Final features of shape (16, 114, 256)
 
-
-```python
-# Initialize
-transformer = FeatureTransformer(input_dim=1024, n=114, e=256)
-
-# Transform features
-img_features = torch.rand(16, 1024)
-transformed = transformer(img_features)  # Output: (16, 114, 256)
-```
-
 **Usage**
 
 ```python
